@@ -14,18 +14,6 @@ Ce projet Power BI explore les incidents de police à travers une analyse visuel
 
 ---
 
-## 📁 Contenu du dépôt
-
-| Fichier/Dossier                     | Description                                                |
-|------------------------------------|------------------------------------------------------------|
-| `POLICE ANALYSIS DATA INCIDENT.pbix` | Rapport Power BI complet avec visualisations interactives   |
-| `Images/`                          | Captures d’écran du dashboard (à ajouter manuellement)     |
-| `Data/`                            | Données anonymisées utilisées pour le projet (optionnel)   |
-| `Documentation/`                  | Explication des choix de visualisation, KPIs, structure    |
-| `README.md`                        | Ce fichier de présentation du projet                       |
-
----
-
 ## 📊 Fonctionnalités du dashboard
 
 - **KPI cards** : Nombre total d’incidents, zones à risque, pics horaires
@@ -55,10 +43,10 @@ Les données ont été nettoyées et préparées avec **Power Query**, puis anal
 
 ## 👤 Auteur
 
-- **Nom** : *[Ton nom ou pseudo ici]*
-- **Lien GitHub** : [https://github.com/tonpseudo](https://github.com/tonpseudo)
-- **Date de création** : Juillet 2025
-- **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+
+- **Nom** : *ilkay sonmez*
+- **LinkedIn** :[ [linkedin.com/in/ton-profil]((https://www.linkedin.com/in/eyup-ilkay-sonmez-8193aa1a9/))](https://www.linkedin.com/in/eyup-ilkay-sonmez-8193aa1a9/)
+- **Date** : Septembre 2024
 
 ---
 
